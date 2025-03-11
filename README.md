@@ -40,10 +40,17 @@ Olá me chamo Matheus Colares, tenho 24 anos e sou natural de Quixadá, Nordeste
 />
 <br/>
 <br/>
-
 ### 📊 Estatísticas :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futurodevmatheus0&show_icons=true&theme=dracula)
+<img
+    aling="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right : 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=futurodevmatheus0&show_icons=true&theme=tokyonight&incluse_all_commits=true"
+/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=futurodevmatheus0&theme=tokyonight&layout=compact&custom_title=Tecnologias)](https://github.com/futurodevmatheus0/github-readme-stats)
 
 
 
